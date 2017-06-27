@@ -2,7 +2,7 @@
  "name": "catalan",
  "version": "0.1.0",
  "description": "Calculate Catalan numbers",
- "keywords": ["catalan", "numbers"],
+ "keywords": ["catalan", "numbers", "math", "combinatorics"],
  "files": ["index.js"],
  "license": "MIT",
  "author": "Brandon Semilla (https://github.com/semibran)",
